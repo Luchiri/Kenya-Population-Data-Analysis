@@ -36,7 +36,7 @@ The project focuses on:
 
 1. Clone the repository:
     ```bash
-    git clone <github.com/Luchiri/Kenya-Population-Data-Analysis>
+    git clone <https://github.com/Luchiri/Kenya-Population-Data-Analysis.git>
     ```
 2. Open the `Kenya_population_analysis.ipynb` notebook in Jupyter Notebook.
 3. Run the notebook cell by cell to see the tables, charts, and analysis.
